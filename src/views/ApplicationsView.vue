@@ -6,7 +6,7 @@
       </div>
       <div class="container">
         <div class="hero-content">
-          <h1 class="hero-title"> ЗАЯВЛЕНИЯ В LSPD</h1>
+          <h1 class="hero-title">ЗАЯВЛЕНИЯ LSPD</h1>
           <p class="hero-subtitle">Выберите тип заявления для подачи в Департамент полиции Лос-Сантоса</p>
         </div>
       </div>
@@ -25,6 +25,7 @@
             <ul class="option-features">
               <li>✅ Первичное трудоустройство</li>
               <li>✅ Все подразделения LSPD</li>
+              <li>✅ Полный соцпакет</li>
               <li>✅ Карьерный рост</li>
             </ul>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAvTvnEpS1TG3qf-nfj5iTJSduC70YE4Gov-qFo9IAHtigcA/viewform?usp=publish-editor" 
@@ -34,35 +35,18 @@
             </a>
           </div>
 
-
+          <!-- Восстановление -->
           <div class="option-card">
-            <div class="option-icon">🪪</div>
+            <div class="option-icon">🔄</div>
             <h3 class="option-title">ВОССТАНОВЛЕНИЕ</h3>
             <p class="option-description">
               Восстановление в должности после увольнения или перерыва в службе
             </p>
             <ul class="option-features">
               <li>✅ Бывшим сотрудникам LSPD</li>
+              <li>✅ После академического отпуска</li>
               <li>✅ После увольнения по собственному</li>
               <li>✅ С сохранением звания</li>
-            </ul>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN9YsaIJWdVHVlC2VBs6D6NYRBYqQk1dUOb6sKNQdGFnTcRQ/viewform" 
-               target="_blank" 
-               class="option-btn">
-              ПОДАТЬ ЗАЯВЛЕНИЕ
-            </a>
-          </div>
-
-
-          <div class="option-card">
-            <div class="option-icon">🔄</div>
-            <h3 class="option-title">ПЕРЕВОДЫ</h3>
-            <p class="option-description">
-              Перевод в LSPD из других государственных структур.
-            </p>
-            <ul class="option-features">
-              <li>✅ Смена организации</li>
-              <li>✅ Смена специализации</li>
             </ul>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN9YsaIJWdVHVlC2VBs6D6NYRBYqQk1dUOb6sKNQdGFnTcRQ/viewform" 
                target="_blank" 
